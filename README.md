@@ -83,19 +83,10 @@ Presented at **VIII SIINTEC**.
 
 <!-- ## 🌀 Dynamic Animation
 
-![GitHub Snake](https://github.com/Alexandreaags/Alexandreaags/blob/output/github-contribution-grid-snake.svg) -->
-## 🤖 Custom Animations
+![GitHub Snake](https://github.com/Alexandreaags/Alexandreaags/blob/output/github-contribution-grid-snake.svg) 
 
-### Robotic Arm
-![Robotic Arm](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/NOME_DA_IMAGEM.png)
 
-### Underwater ROV
-![Underwater ROV](GIFs/Gif_ROV_Subaquático_Pronto.mp4)
-
-### Quadruped Robot
-![Quadruped Robot](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/NOME_DA_IMAGEM.png)
-
----
+--- -->
 
 ## 🎯 Motto
 
@@ -103,7 +94,7 @@ Presented at **VIII SIINTEC**.
 
 ---
 
-### 🛠️ To Enable Activity Feed & Snake Animation:
+<!--### 🛠️ To Enable Activity Feed & Snake Animation:
 
 1. Use **GitHub Actions** like `readme-activity-graph` and `github-contribution-grid-snake`.
-2. Follow instructions for [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/).
+2. Follow instructions for [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/). -->
