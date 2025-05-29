@@ -81,12 +81,12 @@ Presented at **VIII SIINTEC**.
 
 ---
 
-<!-- ## 🌀 Dynamic Animation
+## 🌀 Dynamic Animation
 
 ![GitHub Snake](https://github.com/Alexandreaags/Alexandreaags/blob/output/github-contribution-grid-snake.svg) 
 
 
---- -->
+---
 
 ## 🎯 Motto
 
