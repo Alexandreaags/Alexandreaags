@@ -81,9 +81,19 @@ Presented at **VIII SIINTEC**.
 
 ---
 
-## 🌀 Dynamic Animation
+<!-- ## 🌀 Dynamic Animation
 
-![GitHub Snake](https://github.com/Alexandreaags/Alexandreaags/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/Alexandreaags/Alexandreaags/blob/output/github-contribution-grid-snake.svg) -->
+## 🤖 Custom Animations
+
+### Robotic Arm
+![Robotic Arm](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/NOME_DA_IMAGEM.png)
+
+### Underwater ROV
+![Underwater ROV](GIFs/Gif_ROV_Subaquático_Pronto.mp4)
+
+### Quadruped Robot
+![Quadruped Robot](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/NOME_DA_IMAGEM.png)
 
 ---
 
