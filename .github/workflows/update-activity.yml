@@ -9,9 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/readme-activity-update@v1
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: "📌 Update recent activity"
-          readme_file: "README.md"  # Path to your README
-          commit_username: "github-actions[bot]"
-          max_lines: 5              # Number of activities to show
+          readme_path: README.md
+          commit_message: "Update activity log"
+          max_lines: 5
