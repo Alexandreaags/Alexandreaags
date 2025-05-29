@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Readme-Workflows/recent-activity@v2
+      - uses: Readme-Workflows/recent-activity@v1
         with:
           commit_message: "📌 Update recent activity"
           readme_file: "README.md"  # Path to your README
