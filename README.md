@@ -71,28 +71,28 @@ Presented at **VIII SIINTEC**.
 ![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandreaags&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandreaags&layout=compact&theme=radical)
 
----
+<!-- ---
 
-## ⚡ Latest Activity
+## ⚡ Latest Activity -->
 
 <!--START_SECTION:activity-->
 <!-- Your latest activity will be automatically inserted here by GitHub Action -->
 <!--END_SECTION:activity-->
 
----
+<!-- ---
 
 ## 🌀 Dynamic Animation
 
-![GitHub Snake](https://github.com/Alexandreaags/Alexandreaags/blob/output/github-contribution-grid-snake.svg) 
+![GitHub Snake](https://github.com/Alexandreaags/Alexandreaags/blob/output/github-contribution-grid-snake.svg)  -->
 
 
----
+<!-- ---
 
 ## 🎯 Motto
 
 > **"Innovating through code and curiosity, one robot at a time."** 🤖✨
 
----
+--- -->
 
 <!--### 🛠️ To Enable Activity Feed & Snake Animation:
 
