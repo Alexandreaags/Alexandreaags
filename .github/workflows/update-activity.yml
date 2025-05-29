@@ -1,0 +1,17 @@
+name: Update Recent Activity
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
+  workflow_dispatch:         # Manual trigger option
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Readme-Workflows/recent-activity@v2
+        with:
+          commit_message: "📌 Update recent activity"
+          readme_file: "README.md"  # Path to your README
+          commit_username: "github-actions[bot]"
+          max_lines: 5              # Number of activities to show
