@@ -22,16 +22,16 @@ Currently working on innovative **ocean floor seismic sensors** at **SENAI CIMAT
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-🛠️ Tools: Git | CAD | HIL Testing | Machine Learning  
+🛠️ Tools: Python | Linux | ROS | Git | Machine Learning  
 📊 Concepts: Embedded Systems | Data Analysis | Remote Monitoring | Simulation
 
 ---
 
-## 🌊 Current Projects
+## 🌊 Current Project
 
-- 🛠️ **OD OBN Phase 2B.3** – Developing pilot systems for ocean floor **seismic sensors** (Shell & Petrobras funded).
-- 🌐 Enhancing **seismic sensor** design and conducting **Unity simulations** at 3000m subsea depth.
-- 🤖 Building **AI models** for seabed **subsidence estimation**.
+- 🛠️ **Robotic system integration** to real-world projects.
+- 🌐 Enhancing **Unity simulations** for Underwater Enviroments.
+- 🤖 Building **AI models**.
 
 ---
 
