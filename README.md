@@ -5,11 +5,11 @@
 
 ### 👋 Hi there, I'm Alexandre!
 
-🔧 A passionate **Electrical & Electronics Engineering** student, currently in the 8th semester.  
+🔧 A passionate **Electrical Engineering** student, currently in the 8th semester.  
 🌊 Specialized in **Robotics**, **Embedded Systems**, and **Simulation**.  
 🐧 **Linux Enthusiast** | 🤖 **ROS Developer** | 💻 **Programmer** (Python | C# | C++).  
 
-Currently working on innovative **ocean floor seismic sensors** at **SENAI CIMATEC** and previously a researcher at **Fraunhofer IPK**.
+Currently working on innovative **project** at **SENAI CIMATEC** and previously a researcher at **Fraunhofer IPK**.
 
 ---
 
