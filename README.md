@@ -76,7 +76,7 @@ Presented at **VIII SIINTEC**.
 ## ⚡ Latest Activity -->
 
 <!--START_SECTION:activity-->
-<!-- Your latest activity will be automatically inserted here by GitHub Action -->
+1. ❗ Opened issue [#1](https://github.com/SenseRoboticsLab/underwater_data_tools/issues/1) in [SenseRoboticsLab/underwater_data_tools](https://github.com/SenseRoboticsLab/underwater_data_tools)
 <!--END_SECTION:activity-->
 
 <!-- ---
