@@ -76,7 +76,7 @@ Presented at **VIII SIINTEC**.
 ## ⚡ Latest Activity -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/SenseRoboticsLab/underwater_data_tools/issues/1) in [SenseRoboticsLab/underwater_data_tools](https://github.com/SenseRoboticsLab/underwater_data_tools)
+1. 🗣 Commented on [#3](https://github.com/SenseRoboticsLab/AQUA-SLAM/issues/3#issuecomment-3597031931) in [SenseRoboticsLab/AQUA-SLAM](https://github.com/SenseRoboticsLab/AQUA-SLAM)
 <!--END_SECTION:activity-->
 
 <!-- ---
